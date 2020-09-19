@@ -1,10 +1,17 @@
 # dChat
-The encryption process is client-side, so the server will never know the plain text message.
+Simple 1-to-1 secure chat (AES-256 Encryption).
+
+The encryption process is client-side (via CryptoJS), so the server will never know the message's plain text.
 
 
 ### Requirments:
 - JavaScript must be enabled in the browser, dChat has no external resources
 - The server must has read/write file permission
+
+
+### Installation:
+- clone the project repository OR download the files and extract them on your server, for example in: mysite.com/dchat/
+- go to: mysite.com/dchat/dchat.php to start
 
 
 ### How it works:
