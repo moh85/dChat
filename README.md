@@ -19,4 +19,4 @@ This script can be used to make simple encrypted chat. The message are encrypted
 
 
 ### security:
-The encryption alogarithm used is AES-256, it is the most secure encryption method ever existed. All messages are encrypted locally, and only the chat parties can see the messages. Of course, for maximum security, you must install this script on a secure server, with SSL/HTTPS support.
+The encryption algorithm used is AES-256, it is the most secure encryption method ever existed. All messages are encrypted locally, and only the chat parties can see the messages. Of course, for maximum security, you must install this script on a secure server, with SSL/HTTPS support.
